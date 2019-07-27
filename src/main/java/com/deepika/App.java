@@ -5,7 +5,7 @@ public class App
     {  
     for (int i=1 ;i<=10 ;i++)
     {
-        System.out.println( "This is my Attempt Number =" + i );
+        System.out.println( "This is my Attempt =" + i );
     }
     
     }
